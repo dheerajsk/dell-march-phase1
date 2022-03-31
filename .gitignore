@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NETPhase1/Algorithms/bin/Debug/netcoreapp3.1
+/NETPhase1/.vs/NETPhase1/v16
+/NETPhase1/Algorithms/obj
+/NETPhase1/Algos/obj
+/NETPhase1/Algos/bin/Debug/netcoreapp3.1
+/NETPhase1/BasicsOfCSharp/bin/Debug
+/NETPhase1/BasicsOfCSharp/obj
+/NETPhase1/Data Strcuture/bin/Debug/netcoreapp3.1
+/NETPhase1/Data Strcuture/obj
+/NETPhase1/SortingAlgorithms/bin/Debug/netcoreapp3.1
+/NETPhase1/SortingAlgorithms/obj/Debug/netcoreapp3.1
+/NETPhase1/SortingAlgorithms/obj
