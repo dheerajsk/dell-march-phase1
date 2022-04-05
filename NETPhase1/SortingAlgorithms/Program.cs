@@ -7,7 +7,7 @@ namespace SortingAlgorithms
     {
         static void Main(string[] args)
         {
-            new BubbleSort().Do();
+            new MergeSort().Do();
         }
     }
 }
